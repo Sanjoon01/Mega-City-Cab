@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*~
+
+# NetBeans private configuration (user-specific settings)
+nbproject/private/
+
+# Build output folders (auto-generated)
+build/
+dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files from editors
+*.swp
+*.tmp
+
+# IDE specific (optional if you don't want to share NetBeans project settings)
+nbproject/genfiles.properties
+nbproject/project.properties
+nbproject/project.xml
